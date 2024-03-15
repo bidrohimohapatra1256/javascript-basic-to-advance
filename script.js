@@ -2,11 +2,11 @@
 // let usear->locatrion = ("bidrohi")<-value
 // let userName = ("bidrohi")
 
-// let secondName = ("my is bidrohi")
+ let secondName = ("my is bidrohi")
 // let age = 20
 //  userHappy =true
-//  let userName = ("bidu")
-//  let mon = userName + 'mohapatra' + ` ` + secondName +"i am" +age +'year old'
+  let userName = ("bidu")
+ let mon = userName + 'mohapatra' + ` ` + secondName +"i am" +age +'year old'
 
 
 
@@ -17,7 +17,7 @@
 
 // code execution
 
-console.log( typeof (firstName))
+console.log( typeof ( typeof firstName))
 
 var firstName ="bidrohi"
 let lastName ="mohapatra"
