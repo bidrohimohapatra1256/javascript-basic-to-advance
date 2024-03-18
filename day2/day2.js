@@ -1,3 +1,3 @@
 
 //  methodes (with out arguments)
-const capitalmassge ='BIDROHIMOHAPATRA' .toUpperCase()
+const capitalmassge ='          BIDROHIMOHAPATRA'.trim()
