@@ -49,16 +49,7 @@ function changeBackground(number) {
   // console.log(number);
   body.className = "";
 
-  switch (number) {
-    case "purple":
-      body.classList.add("purple");
-      break;
-    case "blue":
-      body.classList.add("blue");
-      break;
-    case "red":
-      body.classList.add("red");
-      break;
+  
     case "green":
       body.classList.add("green");
       break;
