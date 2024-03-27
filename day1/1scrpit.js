@@ -50,16 +50,4 @@ function changeBackground(number) {
   body.className = "";
 
   
-    case "green":
-      body.classList.add("green");
-      break;
-    case "yellow":
-      body.classList.add("yellow");
-      break;
-    case "teal":
-      body.classList.add("teal");
-      break;
-    default:
-      break;
-  }
 }
