@@ -85,13 +85,4 @@ switch (fruit) {
 }
 
 
-switch(21){
-    case 10:
-        console.log("It's 10");
-        break;
-    case 11:
-        console.log("It's 11");
-        break;
-    default:
-        console.log("It's something else");        
-}
+
