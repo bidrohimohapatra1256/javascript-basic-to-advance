@@ -10,10 +10,3 @@ function checkPalindrome() {
     }
 }
 
-const string = "Suraj"
-console.log(string.split("").reverse().join(""))
-/  let secondName = ("my is bidrohi")
-let age = 20
- userHappy =true
-   let userName = ("bidu")
- let mon = userName + 'mohapatra' + ` ` + secondName +"i am" +age +'year old'
