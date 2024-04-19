@@ -45,18 +45,3 @@ btns.forEach((btn) => {
   });
 });
 
-function changeBackground(number) {
-  // console.log(number);
-  body.className = "";
-  const loginForm = document.querySelector(".login-form");
-  const signupForm = document.querySelector(".signup-form");
-  const loginBtn = document.querySelector(".login button");
-  const signupBtn = document.querySelector(".signup button");
-  const backLayer = document.querySelector(".back-layer");
-  
-  acconutId=2
-
-
-
-  
-}
