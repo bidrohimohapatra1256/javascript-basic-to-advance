@@ -8,9 +8,6 @@
   // let userName = ("bidu")
 //  let mon = userName + 'mohapatra' + ` ` + secondName +"i am" +age +'year old'
 
-
-
-
 //constant
 
 
@@ -32,16 +29,5 @@
 
 
 
-// Getting Elements From The DOM
-const btns = document.querySelectorAll(".btn");
-const body = document.body;
-// console.log(btns);
 
-// Iterating over all buttons
-btns.forEach((btn) => {
-  btn.addEventListener("click", () => {
-    number = btn.value;
-    changeBackground(number);
-  });
-});
 
