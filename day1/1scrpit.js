@@ -24,10 +24,11 @@
 //dilogbox
 // alert("are you sure.")
 // confirm("your massgae gors hear.")
- const userInput = prompt("your massgae gors hear.")
- console.log (userInput)
-
-
-
-
+//  const userInput = prompt("your massgae gors hear.")
+//  console.log (userInput)
+//--------------------------------------------------
+const Massgae ="Hello world!"
+const faltuMessage ='hi' am bidrohi .
+const finalMessageLowerCase =faltuMessage.trim().toLocaleLowerCase()
+const capitalMessage =message.toUpperCase()
 
