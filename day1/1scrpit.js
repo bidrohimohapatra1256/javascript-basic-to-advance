@@ -31,4 +31,5 @@ const Massgae ="Hello world!"
 const faltuMessage ='hi am bidrohi '
 const finalMessageLowerCase =faltuMessage.trim().toLocaleLowerCase()
 const capitalMessage =message.toUpperCase()
+const replaceMassage = finalMessage .replace('hi,hellow')
 
