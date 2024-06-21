@@ -29,8 +29,6 @@ function highlightCups(idx) {
         }
     })
 
-    updateBigCup()
-}
 
 
 }}
