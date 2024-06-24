@@ -15,12 +15,7 @@ smallCups.forEach((cup, idx) => {
     cup.addEventListener('click', () => highlightCups(idx))
 })
 
-function highlightCups(idx) {
-    if (idx===7 && smallCups[idx].classList.contains("full")) idx--;
-    else if(smallCups[idx].classList.contains('full') && !smallCups[idx].nextElementSibling.classList.contains('full')) {
-        idx--
-    }
-
+function highlightCups
     
 
 
