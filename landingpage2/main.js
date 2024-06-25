@@ -11,12 +11,7 @@ const remained = document.getElementById('remained')
 
 updateBigCup()
 
-smallCups.forEach((cup, idx) => {
-    cup.addEventListener('click', () => highlightCups(idx))
-})
 
-function highlightCups
-    
 
 
 
